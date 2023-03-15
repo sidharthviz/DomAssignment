@@ -32,9 +32,7 @@ show.appendChild(element);
 
 //----------------------------SECOND--------------
 
-//output1
 
-let accor = document.querySelector('accordion-wrapper');
 
 
 

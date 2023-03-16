@@ -3,8 +3,8 @@
 ## Dom 1
 ##  output 1.
 
-img
 
+![task1Output](https://user-images.githubusercontent.com/74046564/225619167-752f4f69-e131-4579-b4ea-4cb5c28c33e6.png)
 
 
 
@@ -22,7 +22,8 @@ show.appendChild(element);
 
 ##  output 2.
 
-img
+![task2Output](https://user-images.githubusercontent.com/74046564/225619276-f53d0c93-6bb0-4c17-8a08-783e86d17a44.png)
+
 
 
 solution: 
@@ -35,7 +36,8 @@ let dipslay = document.querySelector(".search-field input");
 
 ##  output 3.
 
-img
+
+![task3Output](https://user-images.githubusercontent.com/74046564/225619344-4f23af78-3755-4c4e-9ca4-40e774d03507.png)
 
 
 solutions: 
@@ -48,7 +50,8 @@ let change = document.querySelectorAll(".hero-left-section p span");
 
 ##  output 4.
 
-img
+
+![task4Output](https://user-images.githubusercontent.com/74046564/225619365-eeaaaec5-066c-4bf7-8a8f-942ae6fd610e.png)
 
 
 
@@ -61,7 +64,8 @@ let picture = document.querySelector('.hero-right-section img');
 
 ##  output 5.
 
-img
+![task5Output](https://user-images.githubusercontent.com/74046564/225619390-05ae54f0-b04d-4f46-9584-6f9dd1fe0b52.png)
+
 
 solutions: 
 
@@ -76,7 +80,8 @@ let button = document.createElement('button');
 
 ##  output 1.
 
-img
+![task1Output](https://user-images.githubusercontent.com/74046564/225619512-24a6755d-1150-48e4-9e8b-8921d14517cf.png)
+
 
 solutions:
 ```
@@ -95,7 +100,8 @@ let para = document.querySelectorAll(".accordian p");
 
 ##  output 2.
 
-img
+![task2Output](https://user-images.githubusercontent.com/74046564/225619538-f0ca5312-9e3c-4575-8c88-aa41f0ad141c.png)
+
 
 solutions: 
 
@@ -139,7 +145,8 @@ praag.style.display = "block"
 
 ## output 1.
 
-img
+
+![task1Output](https://user-images.githubusercontent.com/74046564/225619614-11c393e3-41e6-47b8-9d99-0c728558aea9.png)
 
 solutions: 
 
@@ -157,7 +164,6 @@ msg.placeholder = "Hello World";
 
 ## output 2.
 
-img
 
 solutions: 
 
@@ -175,7 +181,8 @@ usermsg.placeholder = "Hello World";
 # Dom 4
 
 
-img 
+ ![DOM P1 SS](https://user-images.githubusercontent.com/74046564/225619925-4be6b9ef-21d2-4ab2-9624-cafa3d75d7e6.png)
+
 
 solutions: 
 
@@ -201,7 +208,8 @@ feat.forEach((ele) => {ele.style.color = "white"});
 # Dom 5
 
 
-img 
+ ![DOM P2 SS](https://user-images.githubusercontent.com/74046564/225620002-db3a2a6e-de3e-437a-906d-9ff68607baac.png)
+
 
 solutions: 
 
@@ -239,14 +247,20 @@ newcard.appendChild(ncard);
 
 # Dom 6
 
+## output 1.
 
-img 
+![DOM P3 SS-1](https://user-images.githubusercontent.com/74046564/225620285-02f8119d-ba20-409f-9495-e48e0b4f231a.png)
+
 
 solutions: 
 
 ```
 const banner = document.querySelector(".logo")
 banner.src = "./assets/ineuron-logo.png"
+
+
+## output 2.
+![DOM P3 SS-2](https://user-images.githubusercontent.com/74046564/225620320-0c38ce7a-dbf8-4a82-b940-799c1355b6a9.png)
 
 
 const price  = document.querySelector(".app_price span");
@@ -258,7 +272,8 @@ price.innerText = "$10";
 # Dom 7
 
 
-img 
+ ![ass7 1-after](https://user-images.githubusercontent.com/74046564/225620435-784f9497-6bcd-473f-89ee-d4b1f3fccdcd.png)
+
 
 solutions: 
 
@@ -270,6 +285,10 @@ show[5].remove();
 show[7].remove(); 
 show[9].remove(); 
 
+
+## output 2.
+
+![ass7 2-after](https://user-images.githubusercontent.com/74046564/225620591-315ff9b4-f8da-4c11-b859-0b07aaff3d98.png)
 
 
 let txt = document.querySelector(".main__form-input");
@@ -291,7 +310,14 @@ btn.addEventListener("submit", (show)=> {
 
 ## output1
 
-img 
+## Before 
+
+![ass8 1-before](https://user-images.githubusercontent.com/74046564/225620777-9fed25c6-ebb2-4908-bc9c-165b62e6b3c9.png)
+
+
+## After
+<img width="770" alt="ass8 1-after" src="https://user-images.githubusercontent.com/74046564/225620652-bedd10dc-b8e7-4eaf-9820-8899210337f3.png">
+
 
 solutions: 
 ```
@@ -314,7 +340,16 @@ roll.appendChild(para);
 
 ## output2
 
-img 
+## before
+
+![ass8 2-before](https://user-images.githubusercontent.com/74046564/225620935-17915b51-01a7-441b-bf02-a5c4471c8159.png)
+
+
+## after
+![ass8 2-after](https://user-images.githubusercontent.com/74046564/225620949-88e0901b-b401-4091-b813-f277dada287f.png)
+
+
+ 
 
 solutions: 
 ```
@@ -325,7 +360,14 @@ const bg = document.querySelector(".container-fluid");
 
 ## output3
 
-img 
+## before 
+
+![ass8 3-before](https://user-images.githubusercontent.com/74046564/225621077-897ef2a4-2240-4d2f-8456-b26e0fe8552a.png)
+
+## after
+
+ ![ass8 3-after](https://user-images.githubusercontent.com/74046564/225621088-6da42475-bf9a-4765-935c-7fdf3712fcc3.png)
+
 
 solutions: 
 ```
@@ -344,9 +386,18 @@ let btn = document.querySelector(".navbar-toggler");
 
 # Dom 9
 
+## before 
+![ass9 1-before](https://user-images.githubusercontent.com/74046564/225621214-e38df702-e6bf-4e1e-a1b4-57137dbe9616.png)
+
+
+## after
+![ass9 1-after](https://user-images.githubusercontent.com/74046564/225621250-67c4508c-affa-4749-8018-29c7dde26c2a.png)
+
+
+
 ## output 1.
 
-img 
+ 
 
 solutions: 
 
@@ -357,7 +408,14 @@ let change = document.querySelector(".caption h1")
 
 ## output 2.
 
-img 
+## before
+![ass9 2-before](https://user-images.githubusercontent.com/74046564/225621331-8f04cd49-e647-4a09-bfbc-101eba1736fb.png)
+
+
+## after
+![ass9 2-after](https://user-images.githubusercontent.com/74046564/225621342-89ca9d1c-7be5-4367-9b86-80e0ba413e2d.png)
+
+
 
 solutions: 
 
